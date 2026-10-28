@@ -18,3 +18,5 @@ def task1():
 @app.route('/ethan')
 def ethan():
   return render_template('template.html', message='GGWP')
+
+## Github Repo: https://github.com/ayaayethan/CST205-Flask-Lab
